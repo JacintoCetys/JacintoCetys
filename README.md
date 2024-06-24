@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacintoCetys
 - 👀 I’m interested in Front and Back end
-- 🌱 I’m currently learning React / Nodejs / Nestjs / Nextjs / Mongodb
+- 🌱 I’m working with React / Nodejs / Nestjs / Nextjs / Mongodb
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me jacinto.ramirez@cetys.mx
 
